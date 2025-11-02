@@ -1,3 +1,17 @@
+🎨 3D Portfolio Website
+
+Tech Stack: React, Three.js, Tailwind CSS
+
+Designed a visually engaging 3D interactive portfolio to showcase projects and skills dynamically.
+
+Implemented Three.js and React Three Fiber for 3D animations and object movement.
+
+Styled using Tailwind CSS, achieving responsiveness across all devices.
+
+Enhanced user engagement with smooth transitions, hover effects, and interactive design elements.
+
+Deployed on Vercel for fast performance and global access.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
